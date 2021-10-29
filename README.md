@@ -1,8 +1,9 @@
-# Kickstarting with Excel
+# Kickstarter Analysis
 
 ## Overview of Project
 
 ### Purpose
+Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to understand how different theater campaigns fared in relation to their launch dates and their funding goals (specific to plays). We'll be performing data analysis on several thousand crowdfunding projects to uncover any hidden trends associated with launch dates and funding goals. 
 
 ## Analysis and Challenges
 
