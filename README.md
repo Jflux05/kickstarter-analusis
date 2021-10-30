@@ -28,6 +28,8 @@ The challenge's prompt mentions that it wants it to be well described with scree
 ### Outcomes Based on Goals
 Play campaigns with lower goal amounts (< $5,000) have the highest success rate. Campaigns with goals ranging from $20,000 to $34,999 have a high failure rate, however it's clear that campaigns with goals over $45,000 have the highest failure rates.
 
-- What are some limitations of this dataset?
+### Limitations and Recommendations 
+The data seems to be quite limited in terms of the sample size we are utilizing. Additionally, the analysis itself is pretty limited in its scope because it does not factor in the other important campaign elements, ie. pledge size, total backers, and/or average donation size. 
 
-- What are some other possible tables and/or graphs that we could create?
+I would recommend diving deeper into the data provided by looking into campaign success rates based on total backers (utilizing another a line graph)  line graph) and then another analysis of how successful play campaigns were based on average donation amount.  
+
