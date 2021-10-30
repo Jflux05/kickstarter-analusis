@@ -18,8 +18,6 @@ We will use the data to identify plays campaign success relative to its goal amo
 ### Challenges and Difficulties Encountered
 The challenge's prompt mentions that it wants it to be well described with screenshots, when it should request a brief breakdown of the analysis performed with screenshots to support it. Additionally, I ran into the issues created by a  difference between local and remote git changes. I also learned a little bit about hidden files and how they can introduce a bit of confusion and require complex merging. Additionally, in the analysis based on goals, the data for plays is limited and for that particular subcategory and there are no cancelled campaigns. Finally, in the prompt for the campaigns by goals, the image showing the different goal ranges displays "Greater than 50000" however this appears to be incorrect. The reason being, that if we were to enter >50000 into our COUNTIF formula the results would be different and not capture all of the qualifying campaigns. 
 
-
-
 ## Results
 
 ### Outcomes Based on Launch Date
@@ -33,5 +31,5 @@ Play campaigns with lower goal amounts (< $5,000) have the highest success rate.
 ### Limitations and Recommendations 
 The data seems to be quite limited in terms of the sample size we are utilizing. Additionally, the analysis itself is pretty limited in its scope because it does not factor in the other important campaign elements, ie. pledge size, total backers, and/or average donation size. 
 
-I would recommend diving deeper into the data provided by looking into campaign success rates based on total backers (utilizing another a line graph)  line graph) and then another analysis of how successful play campaigns were based on average donation amount.  
+I would recommend diving deeper into the data provided by looking into campaign success rates based on total backers (utilizing another a line graph) and then another analysis of how successful play campaigns were based on average donation amount.  
 
